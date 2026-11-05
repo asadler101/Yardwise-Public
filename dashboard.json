@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "lastChecked": "2026-11-05",
+  "summary": "Keep the new lawn moist, not saturated. Give new shrubs and succulents different watering care.",
+  "cards": [
+    {
+      "id": "lawn",
+      "name": "New rye lawn",
+      "status": "Waiting for first sprouts",
+      "action": "Check the seedbed before watering. Skip watering while it is wet; use short, gentle runs as the surface begins drying. Keep the old two-hour program off.",
+      "amount": "Enough to moisten the seedbed without puddles or runoff; sprinkler output has not been measured.",
+      "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only when needed.",
+      "nextCheck": "Assess emergence and possible washed-out areas by November 8. Report first sprouts before changing the fertilizer plan.",
+      "why": "Recent flooding may have moved seed. No sprouts have been confirmed; do not assume the seeding failed."
+    },
+    {
+      "id": "hopseed",
+      "name": "Green hopseed",
+      "status": "New planting · establishment care",
+      "action": "Check moisture inside the original root ball daily. Hand-water slowly when it begins drying, keeping it moist rather than soggy.",
+      "amount": "Wet the root ball and nearby soil; an exact volume needs a moisture and delivery check.",
+      "frequency": "Daily moisture checks this first week; watering is conditional, not automatically daily.",
+      "nextCheck": "Review a twice-weekly drip starting plan around November 11.",
+      "why": "New shrub roots need reliable moisture. Nursery container size is not a watering dose."
+    },
+    {
+      "id": "cacti",
+      "name": "Barrel & totem cactus",
+      "status": "Allow soil to dry",
+      "action": "Do not repeat routine watering yet. Keep emitters closed if the shared zone would water them too often.",
+      "amount": "No additional scheduled watering now.",
+      "frequency": "Check soil dryness before the next watering; do not put them on automatic twice-weekly watering.",
+      "nextCheck": "November 11 is a soil check, not an automatic watering date.",
+      "why": "They were watered at planting; damaged roots need time to heal and wet soil can promote rot."
+    },
+    {
+      "id": "mound",
+      "name": "Moroccan mound",
+      "status": "Low-water succulent",
+      "action": "Keep it on a separate low-water approach from the hopseed. Let soil dry between waterings.",
+      "amount": "Avoid saturating the root area repeatedly; exact delivery is not yet calibrated.",
+      "frequency": "Check soil first; no automatic extra hand-watering while wet.",
+      "nextCheck": "Review soil moisture before connecting it to a frequent shared drip schedule.",
+      "why": "This is a succulent, not a shrub that should stay steadily moist."
+    },
+    {
+      "id": "palms",
+      "name": "Hybrid fan & Mediterranean fan palms",
+      "status": "Established planting · separate needs",
+      "action": "Check root-zone moisture before a drip run. Do not increase watering simply because new plants were added.",
+      "amount": "Recorded baseline: about 24 gallons per palm per run; this has not been validated against root-zone wetting.",
+      "frequency": "Recorded baseline: about every four days. Skip or adjust when soil is already wet.",
+      "nextCheck": "Check the root area before the next scheduled run.",
+      "why": "Emitter flow controls volume, but every plant on a valve shares its watering days."
+    }
+  ],
+  "tasks": [
+    {
+      "title": "First rye fertilizer",
+      "instruction": "Hold for now. Use plain Scotts Starter 24-25-4 once, 14 days after observed first sprouts. Planned total is 1.54 lb, with Scotts drop setting 6 subject to the actual bag/model. If starter was already applied at seeding, do not repeat it.",
+      "when": "Date pending first sprouts"
+    },
+    {
+      "title": "Lawn recovery check",
+      "instruction": "Inspect for fine sprouts and washed-out streaks before adding more seed. Share a photo in the chat if coverage is unclear.",
+      "when": "By November 8"
+    },
+    {
+      "title": "New plant drip review",
+      "instruction": "Review hopseed establishment and each plant’s moisture before changing the shared zone. Cacti may remain on manual watering.",
+      "when": "Around November 11"
+    }
+  ]
+}
