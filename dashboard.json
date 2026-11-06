@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-05",
-  "summary": "Keep the new lawn moist, not saturated. Give new shrubs and succulents different watering care.",
+  "summary": "Rye sprouts are appearing unevenly. Keep unsprouted areas moist and assess coverage before adding seed.",
   "cards": [
     {
       "id": "lawn",
       "name": "New rye lawn",
-      "status": "Waiting for first sprouts",
-      "action": "Check the seedbed before watering. Skip watering while it is wet; use short, gentle runs as the surface begins drying. Keep the old two-hour program off.",
+      "status": "First sprouts confirmed · patchy coverage",
+      "action": "Keep the seedbed moist with gentle watering while unsprouted areas continue germinating. Skip runs where soil is already wet. Do not reduce watering across the entire lawn just because a few areas sprouted; keep the old two-hour program off.",
       "amount": "Enough to moisten the seedbed without puddles or runoff; sprinkler output has not been measured.",
-      "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only when needed.",
-      "nextCheck": "Assess emergence and possible washed-out areas by November 8. Report first sprouts before changing the fertilizer plan.",
-      "why": "Recent flooding may have moved seed. No sprouts have been confirmed; do not assume the seeding failed."
+      "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only as needed to prevent the seedbed drying, without runoff.",
+      "nextCheck": "Recheck coverage around November 8. Share a photo of thin and bare areas before deciding on spot seeding.",
+      "why": "First sprouts are confirmed in some areas. Uneven emergence does not yet establish which areas failed after the flooding."
     },
     {
       "id": "hopseed",
@@ -57,12 +57,12 @@
   "tasks": [
     {
       "title": "First rye fertilizer",
-      "instruction": "Hold for now. Use plain Scotts Starter 24-25-4 once, 14 days after observed first sprouts. Planned total is 1.54 lb, with Scotts drop setting 6 subject to the actual bag/model. If starter was already applied at seeding, do not repeat it.",
-      "when": "Date pending first sprouts"
+      "instruction": "Planned first rye feeding: 1.54 lb total of plain Scotts Starter 24-25-4, with Scotts drop setting 6 subject to the actual bag/model. Apply only once, provided seedlings are established and conditions are suitable. If starter was already applied at seeding, skip this additional feeding.",
+      "when": "November 19 · planned first feeding"
     },
     {
       "title": "Lawn recovery check",
-      "instruction": "Inspect for fine sprouts and washed-out streaks before adding more seed. Share a photo in the chat if coverage is unclear.",
+      "instruction": "Compare sprouted and bare areas after a few more days. Check for seed piles and washed-out streaks; share a photo before adding seed. Do not rake through the new sprouts.",
       "when": "By November 8"
     },
     {
