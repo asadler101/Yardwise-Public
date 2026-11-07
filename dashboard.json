@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-07",
-  "summary": "Rye sprouts are appearing unevenly. Keep unsprouted areas moist and assess coverage before adding seed.",
+  "summary": "Green growth is visible, but rye coverage still needs a closer look. Keep thin areas moist without saturating the lawn.",
   "cards": [
     {
       "id": "lawn",
@@ -10,8 +10,8 @@
       "action": "Keep the seedbed moist with gentle watering while unsprouted areas continue germinating. Skip runs where soil is already wet. Do not reduce watering across the entire lawn just because a few areas sprouted; keep the old two-hour program off.",
       "amount": "Enough to moisten the seedbed without puddles or runoff; sprinkler output has not been measured.",
       "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only as needed to prevent the seedbed drying, without runoff.",
-      "nextCheck": "Recheck coverage around November 8. Share a photo of thin and bare areas before deciding on spot seeding.",
-      "why": "First sprouts are confirmed in some areas. Uneven emergence does not yet establish which areas failed after the flooding."
+      "nextCheck": "Reassess thin areas around November 10 with a close-up before deciding on spot seeding.",
+      "why": "First sprouts are confirmed, but an overview cannot reliably separate new rye from older Bermuda. Thin, straw-colored areas alone are not proof that seeding failed."
     },
     {
       "id": "hopseed",
@@ -62,8 +62,8 @@
     },
     {
       "title": "Lawn recovery check",
-      "instruction": "Compare sprouted and bare areas after a few more days. Check for seed piles and washed-out streaks; share a photo before adding seed. Do not rake through the new sprouts.",
-      "when": "By November 8"
+      "instruction": "Compare thin areas with a close-up taken without strong glare. Do not blanket-reseed or rake through sprouts. Decide on spot repairs only after checking which areas actually lack seedlings.",
+      "when": "Around November 10"
     },
     {
       "title": "New plant drip review",
