@@ -26,12 +26,12 @@
     {
       "id": "cacti",
       "name": "Barrel & totem cactus",
-      "status": "Allow soil to dry",
-      "action": "Do not repeat routine watering yet. Keep emitters closed if the shared zone would water them too often.",
-      "amount": "No additional scheduled watering now.",
-      "frequency": "Check soil dryness before the next watering; do not put them on automatic twice-weekly watering.",
-      "nextCheck": "November 11 is a soil check, not an automatic watering date.",
-      "why": "They were watered at planting; damaged roots need time to heal and wet soil can promote rot."
+      "status": "Confirm establishment watering method",
+      "action": "Check the root area before watering and skip watering while it remains moist. Clarify the installer’s brief daily watering method and delivered volume before treating it as a fixed schedule.",
+      "amount": "Seconds alone do not define the amount: hose flow and drip-emitter flow can differ greatly.",
+      "frequency": "Not yet settled. Do not add automatic daily drip or repeatedly wet already-moist soil.",
+      "nextCheck": "Confirm whether roots stayed in an intact nursery root ball, and whether the brief watering uses a hose or drip.",
+      "why": "Root-ball transplants and bare-root or root-damaged cacti need different establishment decisions. The installer’s site-specific method needs to be reconciled with dry-between-watering guidance."
     },
     {
       "id": "mound",
