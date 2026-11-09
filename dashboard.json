@@ -69,6 +69,11 @@
       "title": "New plant drip review",
       "instruction": "Review hopseed establishment and each plant’s moisture before changing the shared zone. Cacti may remain on manual watering.",
       "when": "Around November 11"
+    },
+    {
+      "title": "First rye mowing",
+      "instruction": "Wait until the NEW rye reaches about 2¾–3 inches and is rooted enough for mowing. With a rotary mower, use a sharp blade set around 2½ inches. Mow only with dry grass and firm soil, turn gently and avoid scalping thin areas. Do not judge readiness from taller old grass alone.",
+      "when": "When new rye reaches 2¾–3 inches"
     }
   ]
 }
