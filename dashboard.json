@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-09",
+  "lastChecked": "2026-11-10",
   "summary": "Green growth is visible, but rye coverage still needs a closer look. Keep thin areas moist without saturating the lawn.",
   "cards": [
     {
@@ -10,7 +10,7 @@
       "action": "Keep the seedbed moist with gentle watering while unsprouted areas continue germinating. Skip runs where soil is already wet. Do not reduce watering across the entire lawn just because a few areas sprouted; keep the old two-hour program off.",
       "amount": "Enough to moisten the seedbed without puddles or runoff; sprinkler output has not been measured.",
       "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only as needed to prevent the seedbed drying, without runoff.",
-      "nextCheck": "Reassess thin areas around November 10 with a close-up before deciding on spot seeding.",
+      "nextCheck": "Coverage check due now: send close-ups of one thin and one greener area, and measure the new rye height before deciding on spot repairs, watering reduction or first mowing.",
       "why": "First sprouts are confirmed, but an overview cannot reliably separate new rye from older Bermuda. Thin, straw-colored areas alone are not proof that seeding failed."
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "title": "Lawn recovery check",
-      "instruction": "Compare thin areas with a close-up taken without strong glare. Do not blanket-reseed or rake through sprouts. Decide on spot repairs only after checking which areas actually lack seedlings.",
-      "when": "Around November 10"
+      "instruction": "Compare a thin area and a greener area with close-up photos taken without glare. Measure the new rye blades, not taller old grass. Await assessment before adding seed or making a whole-lawn watering change; do not rake through sprouts.",
+      "when": "Due now · coverage and height check"
     },
     {
       "title": "New plant drip review",
