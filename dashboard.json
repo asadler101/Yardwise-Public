@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-11",
-  "summary": "Green growth is visible, but rye coverage still needs a closer look. Keep thin areas moist without saturating the lawn.",
+  "summary": "Young shoots are visible around localized sparse gaps. Repair only genuinely bare areas and protect the surrounding seedlings.",
   "cards": [
     {
       "id": "lawn",
       "name": "New rye lawn",
-      "status": "First sprouts confirmed · patchy coverage",
-      "action": "Keep the seedbed moist with gentle watering while unsprouted areas continue germinating. Skip runs where soil is already wet. Do not reduce watering across the entire lawn just because a few areas sprouted; keep the old two-hour program off.",
-      "amount": "Enough to moisten the seedbed without puddles or runoff; sprinkler output has not been measured.",
-      "frequency": "Check around 7 AM, 11 AM, 2 PM and 5 PM; water only as needed to prevent the seedbed drying, without runoff.",
-      "nextCheck": "Coverage check due now: send close-ups of one thin and one greener area, and measure the new rye height before deciding on spot repairs, watering reduction or first mowing.",
-      "why": "First sprouts are confirmed, but an overview cannot reliably separate new rye from older Bermuda. Thin, straw-colored areas alone are not proof that seeding failed."
+      "status": "Localized gaps · limited spot repair recommended",
+      "action": "On firm, workable soil, spot-seed genuinely bare center gaps with the same rye seed. Remove only loose clumps by hand, press seed gently onto soil, and avoid raking through surrounding seedlings. Keep seedbed moist without puddles or runoff.",
+      "amount": "For bare gaps, about 2 ounces of uncoated perennial rye seed per 10 square feet. Do not add that amount over areas already containing a good stand of seedlings.",
+      "frequency": "Check surface moisture through the day. If you spot-seed, use gentle targeted watering to keep those patches moist; skip already-wet areas. Do not return to the old two-hour lawn program.",
+      "nextCheck": "Report when spot-seeding is actually completed and measure new rye height before first mowing. Do not infer height from an unscaled photo.",
+      "why": "Close-up shows shoots around a distinctly sparse center. A photo cannot establish whether seed washed away, determine exact grass height, or confirm disease."
     },
     {
       "id": "hopseed",
@@ -61,9 +61,9 @@
       "when": "November 19 · planned first feeding"
     },
     {
-      "title": "Lawn recovery check",
-      "instruction": "Compare a thin area and a greener area with close-up photos taken without glare. Measure the new rye blades, not taller old grass. Await assessment before adding seed or making a whole-lawn watering change; do not rake through sprouts.",
-      "when": "Due now · coverage and height check"
+      "title": "Localized lawn spot repair",
+      "instruction": "Use the same uncoated rye seed in truly bare gaps only, about 2 oz per 10 sq ft. Remove loose debris gently, press seed into soil contact and keep repaired patches moist. Avoid sowing immediately before intense runoff-producing rain. Report completion so repair care can be tracked separately.",
+      "when": "When soil is firm and workable"
     },
     {
       "title": "New plant drip review",
