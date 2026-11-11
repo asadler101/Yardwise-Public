@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-10",
+  "lastChecked": "2026-11-11",
   "summary": "Green growth is visible, but rye coverage still needs a closer look. Keep thin areas moist without saturating the lawn.",
   "cards": [
     {
@@ -16,11 +16,11 @@
     {
       "id": "hopseed",
       "name": "Green hopseed",
-      "status": "New planting · establishment care",
+      "status": "Establishment review · check drip readiness",
       "action": "Check moisture inside the original root ball daily. Hand-water slowly when it begins drying, keeping it moist rather than soggy.",
       "amount": "Wet the root ball and nearby soil; an exact volume needs a moisture and delivery check.",
-      "frequency": "Daily moisture checks this first week; watering is conditional, not automatically daily.",
-      "nextCheck": "Review a twice-weekly drip starting plan around November 11.",
+      "frequency": "Continue daily moisture checks during establishment; watering remains conditional. Do not change the shared valve schedule before checking emitter delivery and soil.",
+      "nextCheck": "Drip readiness check due: report whether the root ball is moist or drying and identify emitter GPH and count.",
       "why": "New shrub roots need reliable moisture. Nursery container size is not a watering dose."
     },
     {
@@ -29,8 +29,8 @@
       "status": "Brief hand-watering · moisture check first",
       "action": "Check soil beneath the gravel beside the root ball. If still moist, skip watering. If it is drying, use the installer’s brief hose watering at a gentle flow, aimed at soil rather than the cactus body. Do not add a drip run as well.",
       "amount": "Installer’s starting instruction: about 30 seconds with a hose. Flow rate is unmeasured; use the gentle flow demonstrated rather than assuming every hose setting gives the same amount.",
-      "frequency": "Check daily during this first week. Water only when drying; do not repeatedly wet already-moist soil.",
-      "nextCheck": "Review this short-term routine around November 11 before moving onto a longer-term drip or manual schedule.",
+      "frequency": "Check soil before any watering. The brief installer-directed hose routine is provisional, not an indefinite daily watering schedule.",
+      "nextCheck": "Establishment review due: check whether root-area soil dries between waterings before choosing a longer-term interval. No automatic twice-weekly drip.",
       "why": "These were nursery-pot plants. Root condition is unknown, so use the installer’s method with moisture checks rather than applying a blanket bare-root transplant rule."
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "title": "New plant drip review",
-      "instruction": "Review hopseed establishment and each plant’s moisture before changing the shared zone. Cacti may remain on manual watering.",
-      "when": "Around November 11"
+      "instruction": "Check hopseed root-ball moisture and identify its emitter count and GPH before moving to drip. Do not switch all plants to twice-weekly watering automatically. Assess cacti and Moroccan mound separately; keep cactus drip off if using hand-watering.",
+      "when": "Due now · root moisture and emitter check"
     },
     {
       "title": "First rye mowing",
