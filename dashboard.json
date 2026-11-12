@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-11",
+  "lastChecked": "2026-11-12",
   "summary": "Young shoots are visible around localized sparse gaps. Repair only genuinely bare areas and protect the surrounding seedlings.",
   "cards": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "title": "First rye mowing",
-      "instruction": "Wait until the NEW rye reaches about 2¾–3 inches and is rooted enough for mowing. With a rotary mower, use a sharp blade set around 2½ inches. Mow only with dry grass and firm soil, turn gently and avoid scalping thin areas. Do not judge readiness from taller old grass alone.",
+      "instruction": "Measure the NEW rye: first cut at about 2¾–3 inches if rooted, with dry grass and firm soil. Use a sharp rotary blade around 2½ inches, turn gently and avoid scalping. If spot-seeding gaps, mow first when ready, then add seed; do not mow over freshly repaired patches.",
       "when": "When new rye reaches 2¾–3 inches"
     }
   ]
