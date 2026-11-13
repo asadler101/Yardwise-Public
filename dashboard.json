@@ -10,7 +10,7 @@
       "action": "Keep fresh repair seed moist without puddles or runoff. Let the cut grass regrow and avoid mowing or raking newly seeded patches. A possibly low cut does not by itself confirm damage.",
       "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
       "frequency": "Current reported setting: four runs daily. Use for repair germination only as needed for moisture; skip already-wet runs. After repairs establish, gradually reduce frequency and water more deeply rather than keeping four daily pulses indefinitely.",
-      "nextCheck": "Confirm roughly when repairs were seeded and report when those patches sprout. If patches dry between runs, adjust delivery or supplement only those spots.",
+      "nextCheck": "Check repaired patches for first sprouts around November 18. Report earlier emergence when observed; do not restart the original lawn’s timeline.",
       "why": "Older rye and newly sown repair seed are at different growth stages. Short pulses suit a germinating seedbed but may not meet the older grass’s developing root-zone needs."
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "title": "Repair seed germination",
-      "instruction": "Spot-seeding is confirmed. Protect the repaired patches; keep them moist without saturation, avoid foot traffic and mowing over new seed, and report their first sprouts. Do not add another layer of seed automatically.",
-      "when": "Now · until repair seedlings establish"
+      "instruction": "Keep repair seed moist without saturation and protect it from traffic or mowing. Check for first sprouts around November 18 and report earlier emergence if observed. Older rye and repair seedlings have different timelines; do not automatically add more seed or another starter feeding.",
+      "when": "Check around November 18"
     },
     {
       "title": "New plant drip review",
