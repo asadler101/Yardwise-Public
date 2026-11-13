@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-12",
-  "summary": "Young shoots are visible around localized sparse gaps. Repair only genuinely bare areas and protect the surrounding seedlings.",
+  "summary": "Protect freshly spot-seeded patches and let the cut lawn regrow. Check moisture rather than relying on watering minutes alone.",
   "cards": [
     {
       "id": "lawn",
       "name": "New rye lawn",
-      "status": "Localized gaps · limited spot repair recommended",
-      "action": "On firm, workable soil, spot-seed genuinely bare center gaps with the same rye seed. Remove only loose clumps by hand, press seed gently onto soil, and avoid raking through surrounding seedlings. Keep seedbed moist without puddles or runoff.",
-      "amount": "For bare gaps, about 2 ounces of uncoated perennial rye seed per 10 square feet. Do not add that amount over areas already containing a good stand of seedlings.",
-      "frequency": "Check surface moisture through the day. If you spot-seed, use gentle targeted watering to keep those patches moist; skip already-wet areas. Do not return to the old two-hour lawn program.",
-      "nextCheck": "Report when spot-seeding is actually completed and measure new rye height before first mowing. Do not infer height from an unscaled photo.",
-      "why": "Close-up shows shoots around a distinctly sparse center. A photo cannot establish whether seed washed away, determine exact grass height, or confirm disease."
+      "status": "Spot repairs seeded · protect germination",
+      "action": "Keep fresh repair seed moist without puddles or runoff. Let the cut grass regrow and avoid mowing or raking newly seeded patches. A possibly low cut does not by itself confirm damage.",
+      "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
+      "frequency": "Current reported setting: four runs daily. Use for repair germination only as needed for moisture; skip already-wet runs. After repairs establish, gradually reduce frequency and water more deeply rather than keeping four daily pulses indefinitely.",
+      "nextCheck": "Confirm roughly when repairs were seeded and report when those patches sprout. If patches dry between runs, adjust delivery or supplement only those spots.",
+      "why": "Older rye and newly sown repair seed are at different growth stages. Short pulses suit a germinating seedbed but may not meet the older grass’s developing root-zone needs."
     },
     {
       "id": "hopseed",
@@ -57,13 +57,13 @@
   "tasks": [
     {
       "title": "First rye fertilizer",
-      "instruction": "Planned first rye feeding: 1.54 lb total of plain Scotts Starter 24-25-4, with Scotts drop setting 6 subject to the actual bag/model. Apply only once, provided seedlings are established and conditions are suitable. If starter was already applied at seeding, skip this additional feeding.",
+      "instruction": "Original lawn’s planned first feeding: 1.54 lb total of plain Scotts Starter 24-25-4 with listed drop setting 6 subject to bag/model. Recheck the mixed-age lawn before application, since repair seed was sown later. Do not add extra fertilizer to compensate for a low cut or repeat starter already used at seeding.",
       "when": "November 19 · planned first feeding"
     },
     {
-      "title": "Localized lawn spot repair",
-      "instruction": "Use the same uncoated rye seed in truly bare gaps only, about 2 oz per 10 sq ft. Remove loose debris gently, press seed into soil contact and keep repaired patches moist. Avoid sowing immediately before intense runoff-producing rain. Report completion so repair care can be tracked separately.",
-      "when": "When soil is firm and workable"
+      "title": "Repair seed germination",
+      "instruction": "Spot-seeding is confirmed. Protect the repaired patches; keep them moist without saturation, avoid foot traffic and mowing over new seed, and report their first sprouts. Do not add another layer of seed automatically.",
+      "when": "Now · until repair seedlings establish"
     },
     {
       "title": "New plant drip review",
@@ -71,9 +71,9 @@
       "when": "Due now · root moisture and emitter check"
     },
     {
-      "title": "First rye mowing",
-      "instruction": "Measure the NEW rye: first cut at about 2¾–3 inches if rooted, with dry grass and firm soil. Use a sharp rotary blade around 2½ inches, turn gently and avoid scalping. If spot-seeding gaps, mow first when ready, then add seed; do not mow over freshly repaired patches.",
-      "when": "When new rye reaches 2¾–3 inches"
+      "title": "Next mowing after regrowth",
+      "instruction": "First mowing is confirmed; cut height is unknown. Allow new rye to regrow toward about 2¾–3 inches, then use a sharp rotary blade around 2½ inches on dry grass and firm ground. Avoid freshly seeded repair patches until their seedlings are rooted and tall enough.",
+      "when": "After regrowth · protect repaired areas"
     }
   ]
 }
