@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-13",
-  "summary": "Protect fresh repair seed. Check actual moisture before watering; showers may replace some runs, but a light shower may not wet every patch.",
+  "lastChecked": "2026-11-14",
+  "summary": "Protect fresh repair seed and let the cut lawn regrow. Check actual moisture before each short watering run.",
   "cards": [
     {
       "id": "lawn",
@@ -9,7 +9,7 @@
       "status": "Spot repairs seeded · protect germination",
       "action": "Keep fresh repair seed moist without puddles or runoff. If showers arrive, inspect patches before each scheduled run and skip only where soil remains moist; do not cancel the entire day solely on forecast rain. Let cut grass regrow and avoid mowing or raking new repairs.",
       "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
-      "frequency": "Reported setting: four 3-minute runs daily. Check repair-patch moisture before each run, especially through a showery afternoon. Skip wet runs, but resume gentle watering if patches begin drying. Do not maintain germination pulses indefinitely once repairs establish.",
+      "frequency": "Reported setting: four 3-minute runs daily. Check repaired-patch moisture before each run and skip wet runs. Resume gentle watering as patches begin drying; transition away from frequent pulses after repair seedlings establish.",
       "nextCheck": "Check repaired patches for first sprouts around November 18. Report earlier emergence when observed; do not restart the original lawn’s timeline.",
       "why": "Older rye and newly sown repair seed are at different growth stages. Short pulses suit a germinating seedbed but may not meet the older grass’s developing root-zone needs."
     },
