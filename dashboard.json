@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-17",
-  "summary": "Morning showers may replace some watering. Check actual repair-patch moisture before each run, then reassess as skies clear.",
+  "lastChecked": "2026-11-18",
+  "summary": "Repair-patch germination check is due. Confirm new sprouts and any earlier starter feeding before the planned fertilizer review.",
   "cards": [
     {
       "id": "lawn",
       "name": "New rye lawn",
       "status": "Spot repairs seeded · protect germination",
-      "action": "Check fresh repair patches before watering, especially after morning showers. Skip any run while seedbed remains moist; a light shower may not wet every patch. As skies clear, resume gentle watering only when surfaces begin drying. Avoid mowing or raking the repairs.",
+      "action": "Check repaired-patch moisture before watering. Skip any run while soil remains moist from rain or irrigation; resume gently as the seedbed begins drying. Protect repair seedlings from traffic and mowing.",
       "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
       "frequency": "Reported setting: four 3-minute runs daily. Check repaired-patch moisture before each run and skip wet runs. Resume gentle watering as patches begin drying; transition away from frequent pulses after repair seedlings establish.",
-      "nextCheck": "Check repaired patches for first sprouts around November 18. Report earlier emergence when observed; do not restart the original lawn’s timeline.",
+      "nextCheck": "Check repaired patches now for first sprouts and report coverage. Confirm whether starter fertilizer has already been applied before the next feeding decision.",
       "why": "Older rye and newly sown repair seed are at different growth stages. Short pulses suit a germinating seedbed but may not meet the older grass’s developing root-zone needs."
     },
     {
@@ -57,13 +57,13 @@
   "tasks": [
     {
       "title": "First rye fertilizer",
-      "instruction": "Original lawn’s planned first feeding: 1.54 lb total of plain Scotts Starter 24-25-4 with listed drop setting 6 subject to bag/model. Recheck the mixed-age lawn before application, since repair seed was sown later. Do not add extra fertilizer to compensate for a low cut or repeat starter already used at seeding.",
-      "when": "November 19 · planned first feeding"
+      "instruction": "Before the tentative feeding, confirm whether starter was already used and whether older rye and repaired patches are established. Planned product is plain Scotts Starter 24-25-4, 1.54 lb total at the bag/model setting (listed drop setting 6). Do not repeat an at-seeding application or add extra fertilizer to compensate for low mowing. Hold application until these checks are complete.",
+      "when": "November 19 · review before feeding"
     },
     {
       "title": "Repair seed germination",
-      "instruction": "Keep repair seed moist without saturation and protect it from traffic or mowing. Check for first sprouts around November 18 and report earlier emergence if observed. Older rye and repair seedlings have different timelines; do not automatically add more seed or another starter feeding.",
-      "when": "Check around November 18"
+      "instruction": "Report whether the repaired patches now show fine green sprouts and whether coverage is improving; a close-up can help. Do not assume repairs failed or add another seed layer solely because emergence is uneven. Use actual establishment to decide when frequent watering can be reduced.",
+      "when": "Due now · check repair sprouts"
     },
     {
       "title": "New plant drip review",
