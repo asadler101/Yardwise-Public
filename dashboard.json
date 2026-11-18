@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-18",
-  "summary": "Repair patches may be starting to sprout. Keep the young seedlings moist and confirm prior fertilizer use before feeding.",
+  "summary": "Repair patches may be starting to sprout. No fertilizer has been applied; feeding still awaits the mixed-age lawn review.",
   "cards": [
     {
       "id": "lawn",
@@ -36,12 +36,12 @@
     {
       "id": "mound",
       "name": "Moroccan mound",
-      "status": "Low-water succulent",
-      "action": "Keep it on a separate low-water approach from the hopseed. Let soil dry between waterings.",
+      "status": "New succulent · weekly moisture check",
+      "action": "Check soil beside the original root ball beneath the gravel. Hand-water only when it has dried; skip while damp, and keep the stem base out of standing water.",
       "amount": "Avoid saturating the root area repeatedly; exact delivery is not yet calibrated.",
-      "frequency": "Check soil first; no automatic extra hand-watering while wet.",
-      "nextCheck": "Review soil moisture before connecting it to a frequent shared drip schedule.",
-      "why": "This is a succulent, not a shrub that should stay steadily moist."
+      "frequency": "Early-establishment starting plan: about every 7–14 days in cool weather, only if soil dries. Check weekly, extend the interval if damp, and account for effective rain. This is a provisional care plan, not a fixed requirement.",
+      "nextCheck": "Check root-ball moisture now, then weekly. Last watering date is unknown; do not assume watering is due today.",
+      "why": "Moroccan mound is a low-water succulent, but its new root ball still needs observation while establishing. Do not give it the hopseed’s wetter schedule."
     },
     {
       "id": "palms",
@@ -57,7 +57,7 @@
   "tasks": [
     {
       "title": "First rye fertilizer",
-      "instruction": "Before the tentative feeding, confirm whether starter was already used and whether older rye and repaired patches are established. Planned product is plain Scotts Starter 24-25-4, 1.54 lb total at the bag/model setting (listed drop setting 6). Do not repeat an at-seeding application or add extra fertilizer to compensate for low mowing. Hold application until these checks are complete.",
+      "instruction": "No fertilizer has been applied, per the latest report. Review the older rye and newly sprouting repair patches before feeding. Planned product is plain Scotts Starter 24-25-4, 1.54 lb total at the bag/model setting (listed drop setting 6). Do not add extra fertilizer for low mowing or treat repairs as the same age as older rye; application is not yet recorded.",
       "when": "November 19 · review before feeding"
     },
     {
