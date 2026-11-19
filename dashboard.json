@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "lastChecked": "2026-11-18",
-  "summary": "Repair patches may be starting to sprout. No fertilizer has been applied; feeding still awaits the mixed-age lawn review.",
+  "summary": "Repair emergence remains unconfirmed. Check whether repaired seedbeds stay moist between the reported short watering runs.",
   "cards": [
     {
       "id": "lawn",
       "name": "New rye lawn",
-      "status": "Repair sprouts reported · early establishment",
+      "status": "Repair emergence unconfirmed · inspect moisture",
       "action": "Check repaired-patch moisture before watering. Skip any run while soil remains moist from rain or irrigation; resume gently as the seedbed begins drying. Protect repair seedlings from traffic and mowing.",
       "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
       "frequency": "Reported setting: four 3-minute runs daily. Check repaired-patch moisture before each run and skip wet runs. Resume gentle watering as patches begin drying; transition away from frequent pulses after repair seedlings establish.",
-      "nextCheck": "Monitor whether fine green shoots become clearly visible across the repair patches. Do not reduce watering solely on a tentative report of the first few sprouts.",
-      "why": "Repair emergence has been tentatively reported. Newly sprouted patches still need time to root; older rye and repaired areas remain at different stages."
+      "nextCheck": "Check repaired spots just before the next run: moist, dry, or soggy? Inspect a few surface seeds gently without disturbing nearby seedlings. Reassess November 22 before adding more seed.",
+      "why": "The latest personal inspection found no sprouts; an earlier secondhand report was tentative. Short rotator runs have not been calibrated against seedbed moisture."
     },
     {
       "id": "hopseed",
@@ -62,8 +62,8 @@
     },
     {
       "title": "Repair seedling establishment",
-      "instruction": "Early repair sprouts have been tentatively reported. Keep patches moist without saturation, protect them from traffic and mowing, and monitor coverage. Gradually reduce frequent watering as seedlings establish rather than stopping abruptly.",
-      "when": "Now · confirm coverage and rooting"
+      "instruction": "Repair sprouts remain unconfirmed. Keep repaired seedbeds moist without saturation, skip wet runs, and protect from mowing. Inspect moisture before the next run; reassess November 22 before further spot seeding.",
+      "when": "Now · moisture check; November 22 coverage review"
     },
     {
       "title": "New plant drip review",
