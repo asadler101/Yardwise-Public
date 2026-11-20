@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-18",
-  "summary": "Repair emergence remains unconfirmed. Check whether repaired seedbeds stay moist between the reported short watering runs.",
+  "lastChecked": "2026-11-20",
+  "summary": "First rye feeding is due when soil is firm and not saturated. Repair emergence remains unconfirmed; keep repaired seedbeds moist and reassess coverage November 22.",
   "cards": [
     {
       "id": "lawn",
@@ -57,8 +57,8 @@
   "tasks": [
     {
       "title": "First rye fertilizer",
-      "instruction": "No fertilizer has been applied, per the latest report. Review the older rye and newly sprouting repair patches before feeding. Planned product is plain Scotts Starter 24-25-4, 1.54 lb total at the bag/model setting (listed drop setting 6). Do not add extra fertilizer for low mowing or treat repairs as the same age as older rye; application is not yet recorded.",
-      "when": "November 19 · review before feeding"
+      "instruction": "Apply plain Scotts Turf Builder Starter Food for New Grass 24-25-4 once: weigh 1.54 lb total for the whole lawn. Listed Scotts drop setting 6; follow actual bag/model directions. Apply when ground is firm and not saturated; sweep granules off paving and gently water after application without runoff. No heavy rain is forecast. This starter can be used with newly sown repair seed, so do not wait for every repair to sprout or give repairs an extra dose later. Application remains unconfirmed.",
+      "when": "Due now - first rye feeding"
     },
     {
       "title": "Repair seedling establishment",
