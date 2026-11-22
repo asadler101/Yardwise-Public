@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-21",
-  "summary": "First rye feeding is due when soil is firm and not saturated. Repair emergence remains unconfirmed; keep repaired seedbeds moist and reassess coverage November 22.",
+  "lastChecked": "2026-11-22",
+  "summary": "Repair coverage review is due: inspect repaired spots in daylight and check seedbed moisture before the next watering. First feeding remains recommended; application is not recorded.",
   "cards": [
     {
       "id": "lawn",
@@ -10,7 +10,7 @@
       "action": "Check repaired-patch moisture before watering. Skip any run while soil remains moist from rain or irrigation; resume gently as the seedbed begins drying. Protect repair seedlings from traffic and mowing.",
       "amount": "Current reported setting: 3 minutes per run. This is not a calibrated watering depth; check that all repaired areas actually get wet and remain moist until the next run.",
       "frequency": "Reported setting: four 3-minute runs daily. Check repaired-patch moisture before each run and skip wet runs. Resume gentle watering as patches begin drying; transition away from frequent pulses after repair seedlings establish.",
-      "nextCheck": "Check repaired spots just before the next run: moist, dry, or soggy? Inspect a few surface seeds gently without disturbing nearby seedlings. Reassess November 22 before adding more seed.",
+      "nextCheck": "Coverage review due now: provide a daylight close-up of a repaired patch and check whether the seedbed is moist, dry or soggy before the next watering. Do not add more seed or reduce watering across the whole lawn without reviewing coverage.",
       "why": "The latest personal inspection found no sprouts; an earlier secondhand report was tentative. Short rotator runs have not been calibrated against seedbed moisture."
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "title": "Repair seedling establishment",
-      "instruction": "Repair sprouts remain unconfirmed. Keep repaired seedbeds moist without saturation, skip wet runs, and protect from mowing. Inspect moisture before the next run; reassess November 22 before further spot seeding.",
-      "when": "Now · moisture check; November 22 coverage review"
+      "instruction": "Check repaired spots in daylight for fine new shoots and provide a close-up. Before the next watering, check whether the seedbed is moist, dry or soggy. Repair emergence is unconfirmed; do not assume failure, blanket-reseed, rake through shoots or continue frequent whole-lawn pulses indefinitely. Review the observation before changing the plan.",
+      "when": "Due now - repair coverage and moisture review"
     },
     {
       "title": "New plant drip review",
