@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-25",
+  "lastChecked": "2026-11-26",
   "summary": "Repair coverage review is due: inspect repaired spots in daylight and check seedbed moisture before the next watering. First feeding remains recommended; application is not recorded.",
   "cards": [
     {
@@ -74,6 +74,11 @@
       "title": "Next mowing after regrowth",
       "instruction": "First mowing is confirmed; cut height is unknown. Allow new rye to regrow toward about 2¾–3 inches, then use a sharp rotary blade around 2½ inches on dry grass and firm ground. Avoid freshly seeded repair patches until their seedlings are rooted and tall enough.",
       "when": "After regrowth · protect repaired areas"
+    },
+    {
+      "title": "Rain forecast review",
+      "instruction": "Recheck shower timing, intensity and wind before watering. Skip lawn or drip runs only where actual rain and soil moisture supply water; forecast showers alone do not establish rainfall at home. Avoid fertilizer before heavy rain or runoff.",
+      "when": "December 1 - reassess before evening showers"
     }
   ]
 }
