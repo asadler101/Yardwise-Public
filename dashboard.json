@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastChecked": "2026-11-26",
-  "summary": "Repair coverage review is due: inspect repaired spots in daylight and check seedbed moisture before the next watering. First feeding remains recommended; application is not recorded.",
+  "lastChecked": "2026-11-27",
+  "summary": "A stronger rain and wind event is forecast for December 1-2; prepare November 30 and recheck timing. Current watering remains moisture-based; repair coverage and fertilizer completion are unconfirmed.",
   "cards": [
     {
       "id": "lawn",
@@ -77,8 +77,8 @@
     },
     {
       "title": "Rain forecast review",
-      "instruction": "Recheck shower timing, intensity and wind before watering. Skip lawn or drip runs only where actual rain and soil moisture supply water; forecast showers alone do not establish rainfall at home. Avoid fertilizer before heavy rain or runoff.",
-      "when": "December 1 - reassess before evening showers"
+      "instruction": "Recheck hourly rain intensity and timing before the approaching storm. Clear surface drains and secure loose items before gusty winds. Do not add more seed before reviewing repair coverage and storm timing. Avoid fertilizer if heavy rain is imminent. Skip lawn/drip runs when actual rain or soil moisture supplies water; do not skip now just because rain is forecast. Afterward inspect repaired areas for runoff or displaced seed before considering localized repair.",
+      "when": "November 30 - prepare for December 1-2 storm"
     }
   ]
 }
